@@ -33,7 +33,7 @@
 <!-- USAGE EXAMPLES -->
 ## Pupose
 
-The purpose of this tiny project is just to save the time. if you want create multiple folders just 
+The purpose of this tiny project is just to save the time. if you want to create multiple folders just 
 to save your daily work seperately, then this small script is very helpful.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
